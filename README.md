@@ -2,14 +2,13 @@
 
 ## !!! HAIII !!!
 
-![Monkeys spinning and holding hands.](mediaape.net/monkeys-spinning-and-holding-hands.gif)
-
-> "Create, explore, expand, conquer" - A$AP Rocky
+> "nyaaa" - Low tier god
 
 1up is cool this is his alt
 
 # I made a little poem
 
+I miss the old GitHub, simple menu's GitHub
 Filled with the juice, GitHub, set on they goals, GitHub
 I hate the new GitHub
 The bad UI GitHub, Copilot in the news GitHub
