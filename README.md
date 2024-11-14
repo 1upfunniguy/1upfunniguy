@@ -51,6 +51,7 @@
 
 ## My Stats:
 <p align="center">
+  <a href="https://github.com/1up64"> 
 <img height="200px" src="https://github-readme-stats.vercel.app/api?username=1up64&hide_border=true&show_icons=true&count_private=true&theme=gruvbox&bg_color=151515">
 </p>
 
