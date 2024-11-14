@@ -3,6 +3,7 @@
 
 ## Introduction
 <p align="center">
+  <a href="https://github.com/1up64"> 
 <img src="https://readme-typing-svg.demolab.com/?lines=Yo%20wsp%20I'm%201up;My%20account%20has%20been%20seen%20by%20over%201%20person&font=Comic%20sans%20MS&center=true&width=700&height=45&color=09F755n&vCenter=true&pause=1000&size=25" /></a>
 </p>
 
