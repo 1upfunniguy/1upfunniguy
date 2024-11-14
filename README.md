@@ -85,4 +85,4 @@ I even had that shi on Rails, I thought I was GitHub
 What if GitHub made a blog post about GitHub
 Called "We miss the old GitHub," man that'd be so GitHub
 That's all I was GitHub, we still love GitHub
-And I love you like Chris Wanstrath loves GitHub
+And I love you like Github loves Ai
