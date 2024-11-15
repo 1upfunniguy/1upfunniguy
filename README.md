@@ -56,13 +56,6 @@
 <img height="200px" src="https://github-readme-stats.vercel.app/api?username=1up64&hide_border=true&show_icons=true&count_private=true&theme=gruvbox&bg_color=151515">
 </p>
 
-## Activity On GitHub
-
-<p align="center">
-  <a href="https://github.com/1up64">      
-<img title="stats" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Thinkright20&theme=dark&hide_border=true&stroke=f53b3b"/>
-</a> 
-</p>
 <h1>And finnaly what you know me for</h1>
 
 <p> Sad Spongebob </p>
