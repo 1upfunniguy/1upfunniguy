@@ -48,7 +48,12 @@
 
 ## Languages and Tools
 
-<p align="left"> <a href="https://github.com/1up64"><img src="https://skillicons.dev/icons?i=vscode,github,css,html,js,nodejs"> </a> </p>
+<p align="left"> <a href="https://vscode.dev"><img src="https://skillicons.dev/icons?i=vscode"> </a> </p>
+<p align="left"> <a href="https://github.com/1up64"><img src="https://skillicons.dev/icons?i=github"> </a> </p>
+<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css"> </a> </p>
+<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html"> </a> </p>
+<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js"> </a> </p>
+<p align="left"> <a href="https://nodejs.org"><img src="https://skillicons.dev/icons?i=nodejs"> </a> </p>
 
 ## My Stats:
 <p align="center">
