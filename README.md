@@ -61,15 +61,8 @@
 <img height="200px" src="https://github-readme-stats.vercel.app/api?username=1upfunniguy&hide_border=true&show_icons=true&count_private=true&theme=gruvbox&bg_color=151515">
 </p>
 
-<h1>And finnaly mlew</h1>
 
-<p> My le epik website </p>
-  <p align="left">
-     <a href="https://github.com/1upfunniguy/My-le-epik-website"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=1upfunniguy&repo=My-le-lepik-website&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
-  </p>
-
-
-# And I made a little poem
+# Welcome to the end of my page here is me and my friend tekers parody of I love kanye by kanye
 
 I miss the old GitHub, simple menu's GitHub
 Filled with the juice, GitHub, set on they goals, GitHub
