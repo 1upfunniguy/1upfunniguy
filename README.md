@@ -55,13 +55,15 @@
 <p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js"> </a> </p>
 <p align="left"> <a href="https://nodejs.org"><img src="https://skillicons.dev/icons?i=nodejs"> </a> </p>
 
-## My Stats:
+## My Stats And 1up Ring:
 <p align="center">
   <a href="https://github.com/1upfunniguy"> 
 <img height="200px" src="https://github-readme-stats.vercel.app/api?username=1upfunniguy&hide_border=true&show_icons=true&count_private=true&theme=gruvbox&bg_color=151515">
-</p>
-
-
+    <p align="center">
+<table><tbody><tr><td><a href="https://octo-ring.com/"><img src="https://github.com/1upfunniguy/1upfunniguy/blob/main/Untitled%20design%20(2).png?raw=true"
+width="99%" alt="Octo Ring logo" align="top"></a><br><a href="https://octo-ring.com/p/1upfunniguy/prev"><img src="https://octo-ring.com/static/img/widget/prev.png" width="33%" alt="previous" align="top" title="previous profile"></a><a href="https://octo-ring.com/p/1upfunniguy/random"><img src="https://octo-ring.com/static/img/widget/random.png" width="33%" alt="random" align="top" title="random profile"></a><a href="https://octo-ring.com/p/1upfunniguy/next"><img src="https://octo-ring.com/static/img/widget/next.png" width="33%" alt="next" align="top" title="next profile"></a><br><a href="https://octo-ring.com/"><img src="https://octo-ring.com/static/img/widget/bottom.png" width="99%" alt="check out other GitHub profiles in the Octo Ring" align="top"></a></td></tr></tbody></table>
+  </p>
+    
 # Welcome to the end of my page here is me and my friend tekers parody of I love kanye by kanye
 
 I miss the old GitHub, simple menu's GitHub
