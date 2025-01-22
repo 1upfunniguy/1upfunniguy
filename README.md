@@ -79,3 +79,5 @@ What if GitHub made a blog post about GitHub
 Called "We miss the old GitHub," man that'd be so GitHub
 That's all I was GitHub, we still love GitHub
 And I love you like Github loves Ai
+
+![snake gif](https://github.com/mahmoud-ahmed-elqenawey/mahmoud-ahmed-elqenawey/blob/output/github-contribution-grid-snake.svg)
