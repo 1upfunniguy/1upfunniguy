@@ -1,7 +1,7 @@
 > [!CAUTION]
 > Incompetent programer alert
 
-## Introduction
+# Introduction
 <p align="center">
   <a href="https://github.com/1upfunniguy"> 
 <img src="https://readme-typing-svg.demolab.com/?lines=Yo%20wsp%20I'm%201up;My%20account%20has%20been%20seen%20by%20over%201%20person&font=Comic%20sans%20MS&center=true&width=700&height=45&color=09F755n&vCenter=true&pause=1000&size=25" /></a>
@@ -18,7 +18,7 @@
 
  </p>
  
-## Profile Views
+# Profile Views
 
 
   <table>
@@ -33,7 +33,7 @@
     </tr>
   </table>
 
-## Top Sponsors
+# Top Sponsors
 **1. Noone :(**
 
 **2. Noone :(**
@@ -42,11 +42,11 @@
 
    <a href="https://github.com/sponsors/1upfunniguy"><img alt="sponsors" title="All Sponsors" src="https://img.shields.io/badge/-All Sponsors-FD9494?style=for-the-badge&logo=GitHub&logoColor=black"/></a>
 
-## What I'm Doing
+# What I'm Doing
 
 - YOUR MOM
 
-## Languages and Tools
+# Languages and Tools
 
 <p align="left"> <a href="https://vscode.dev"><img src="https://skillicons.dev/icons?i=vscode"> </a> </p>
 <p align="left"> <a href="https://github.com/1upfunniguy"><img src="https://skillicons.dev/icons?i=github"> </a> </p>
@@ -55,17 +55,20 @@
 <p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js"> </a> </p>
 <p align="left"> <a href="https://nodejs.org"><img src="https://skillicons.dev/icons?i=nodejs"> </a> </p>
 
-## 1up ring:
-<p align="center">
-<table><tbody><tr><td><a href="https://octo-ring.com/"><img src="https://github.com/1upfunniguy/1upfunniguy/blob/main/Untitled%20design%20(2).png?raw=true"
-width="99%" alt="Octo Ring logo" align="top"></a><br><a href="https://octo-ring.com/p/1upfunniguy/prev"><img src="https://octo-ring.com/static/img/widget/prev.png" width="33%" alt="previous" align="top" title="previous profile"></a><a href="https://octo-ring.com/p/1upfunniguy/random"><img src="https://octo-ring.com/static/img/widget/random.png" width="33%" alt="random" align="top" title="random profile"></a><a href="https://octo-ring.com/p/1upfunniguy/next"><img src="https://octo-ring.com/static/img/widget/next.png" width="33%" alt="next" align="top" title="next profile"></a><br><a href="https://octo-ring.com/"><img src="https://octo-ring.com/static/img/widget/bottom.png" width="99%" alt="check out other GitHub profiles in the Octo Ring" align="top"></a></td></tr></tbody></table>
-</p>
+# discover others with the octo ring:
+<div align="center"><table><tbody><tr><td><a href="https://octo-ring.com/"><img src="https://octo-ring.com/static/img/widget/top.png"
+width="99%" alt="Octo Ring logo" align="top"></a><br><a href="https://octo-ring.com/p/1upfunniguy/prev"><img src="https://octo-ring.com/static/img/widget/prev.png" width="33%" alt="previous" align="top" title="previous profile"></a><a href="https://octo-ring.com/p/1upfunniguy/random"><img src="https://octo-ring.com/static/img/widget/random.png" width="33%" alt="random" align="top" title="random profile"></a><a href="https://octo-ring.com/p/1upfunniguy/next"><img src="https://octo-ring.com/static/img/widget/next.png" width="33%" alt="next" align="top" title="next profile"></a><br><a href="https://octo-ring.com/"><img src="https://octo-ring.com/static/img/widget/bottom.png" width="99%" alt="check out other GitHub profiles in the Octo Ring" align="top"></a></td></tr></tbody></table></div>
 
-
-## My Stats:
+<details>
+  <summary>
+    
+# My Stats:
+    
+  </summary>
 <p align="center">
   <a href="https://github.com/1upfunniguy"> 
 <img height="200px" src="https://github-readme-stats.vercel.app/api?username=1upfunniguy&hide_border=true&show_icons=true&count_private=true&theme=gruvbox&bg_color=151515">
+    </details>
     
 # Welcome to the end of my page here is me and my friend tekers parody of I love kanye by kanye
 
