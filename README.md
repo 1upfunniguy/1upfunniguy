@@ -123,7 +123,16 @@ That's all I was GitHub, we still love GitHub
 And I love you like Github loves Ai
 </details>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/1upfunniguy/1upfunniguy/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/1upfunniguy/1upfunniguy/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/1upfunniguy/1upfunniguy/output/github-contribution-grid-snake.svg"
+  />
 </picture>
