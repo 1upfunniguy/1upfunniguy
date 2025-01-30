@@ -135,7 +135,7 @@ And I love you like Github loves Ai
     srcset="https://raw.githubusercontent.com/1upfunniguy/1upfunniguy/output/github-contribution-grid-snake.svg"
   />
   <img
-    alt="github contribution grid snake animation"
+    alt="snake thingy"
     src="https://raw.githubusercontent.com/1upfunniguy/1upfunniguy/output/github-contribution-grid-snake.svg"
   />
 </picture>
