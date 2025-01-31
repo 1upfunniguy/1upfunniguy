@@ -1,14 +1,14 @@
+[![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://stand-with-ukraine.pp.ua)
+
 > [!CAUTION]
-> :trollface: Incompetent programer alert :trollface:
+> :trollface: Incompetent programmer alert :trollface:
 
-<p align="center">
-  <a href="https://github.com/"> 
-<img src="https://images.cooltext.com/5722466.png" /></a>
-</p>
+<div align="center">
+  
+![1up](https://images.cooltext.com/5722466.png)
+</div>
 
-<p align="center">
-  <a href="https://github.com/1upfunniguy"> 
-<img src="https://readme-typing-svg.demolab.com/?lines=Yo%20wsp%20I'm%201up;My%20account%20has%20been%20seen%20by%20over%201%20person&font=Helvetica-Bold&center=true&width=700&height=45&color=A020F0&vCenter=true&pause=1000&size=25" /></a>
+![Typed Text](https://readme-typing-svg.demolab.com/?lines=Yo%20wsp%20I'm%201up;My%20account%20has%20been%20seen%20by%20over%201%20person&font=Helvetica-Bold&center=true&width=700&height=45&color=A020F0&vCenter=true&pause=1000&size=25)
 </p>
 
 <h3 align="center">wsp I'm <a href="https://github.com/1upfunniguy">1up</a></h3>
@@ -24,8 +24,18 @@
 ![Playing](https://api.statusbadges.me/badge/playing/850970861305331712?style=flat)
 ![VSCode](https://api.statusbadges.me/badge/vscode/850970861305331712)
 [![Spotify](https://api.statusbadges.me/badge/spotify/850970861305331712)](https://api.statusbadges.me/openspotify/850970861305331712)
+![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=flat&logo=Firefox-Browser&logoColor=white)
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black&style=flat)](https://buymeacoffee.com/linkthesupm)
+[![Github-sponsors](https://img.shields.io/badge/sponsor-30363D?style=flat&logo=GitHub-Sponsors&logoColor=#EA4AAA)](https://github.com/sponsors/1upfunniguy)
+[![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg)](https://stand-with-ukraine.pp.ua)
+ </div>
+ 
+ <div align="center">
+   
+ ![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=radical&animation=grow_out_in&layout=default&font=default&quoteType=random)
  
  </div>
+ 
  <div align="center">
    <div id="toc">
   <ul style="list-style: none;">
