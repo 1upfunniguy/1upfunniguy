@@ -28,11 +28,11 @@
 ![Playing](https://api.statusbadges.me/badge/playing/850970861305331712?style=flat)
 ![VSCode](https://api.statusbadges.me/badge/vscode/850970861305331712)
 [![Spotify](https://api.statusbadges.me/badge/spotify/850970861305331712)](https://api.statusbadges.me/openspotify/850970861305331712)
+[![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg)](https://stand-with-ukraine.pp.ua)
 ![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=flat&logo=Firefox-Browser&logoColor=white)
 [![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=flat&logo=steam&logoColor=white)](https://steamcommunity.com/id/1upfunniguy)
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black&style=flat)](https://buymeacoffee.com/linkthesupm)
 [![Github-sponsors](https://img.shields.io/badge/sponsor-30363D?style=flat&logo=GitHub-Sponsors&logoColor=#EA4AAA)](https://github.com/sponsors/1upfunniguy)
-[![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg)](https://stand-with-ukraine.pp.ua)
  </div>
  
  <div align="center">
