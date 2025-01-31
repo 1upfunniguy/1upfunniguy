@@ -14,43 +14,28 @@
 <h3 align="center">wsp I'm <a href="https://github.com/1upfunniguy">1up</a></h3>
 <h5 align="center">Below are a few links you can visit and some stats to look at too</h5>
 
-<p align="center">
-  <a href="https://www.youtube.com/@1upfunniguy"><img alt="Youtube" title="Youtube" src="https://img.shields.io/badge/-Youtube-FF0000?style=flat&logo=youtube&logoColor=white"/></a>
-  <a href="https://bsky.app/profile/1upfunniguy.bsky.social"><img alt="Bluesky" title="Bluesky" src="https://img.shields.io/badge/-Bluesky-019CE0?style=flat&logo=bluesky&logoColor=white"/></a> 
-<a href="https://github.com/1upfunniguy?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/1upfunniguy?color=FFD700&style=flat&labelColor=FFBF00&logo=star"/></a>
-   <a href="https://github.com/1upfunniguy"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/1upfunniguy?color=236ad3&style=flat&logo=github&label=Follow"/></a>
-  <img src="https://api.statusbadges.me/badge/status/850970861305331712?style=flat" alt="status">
-  <img src="https://api.statusbadges.me/badge/playing/850970861305331712?style=flat" alt="playing">
-<img src="https://api.statusbadges.me/badge/vscode/850970861305331712" alt="vscode">
-<a href="https://api.statusbadges.me/openspotify/850970861305331712" target="_blank" rel="noopener"><img src="https://api.statusbadges.me/badge/spotify/850970861305331712" alt="spotify"></a>
- </p>
- 
- 
-    
-    
-## Profile Views
-</summary
-
-  <table>
-    <tr>
-      <!-- <th>Profile Views</th> -->
-     <!-- <th>Total Count</th> -->
-    </tr>
-    <tr>
-      <td>
-         <a href="https://github.com/1upfunniguy"> <img src="https://komarev.com/ghpvc/?username=1upfunniguy&style=flat&color=brightgreen"> </a>
-      </td>
-    </tr>
-  </table>
+<div align="center">
   
-    
-
-    
-    
+  [![Youtube](https://img.shields.io/badge/-Youtube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@1upfunniguy)
+[![Bluesky](https://img.shields.io/badge/-Bluesky-019CE0?style=flat&logo=bluesky&logoColor=white)](https://bsky.app/profile/1upfunniguy.bsky.social)
+[![Total stars on GitHub](https://custom-icon-badges.demolab.com/github/stars/1upfunniguy?color=FFD700&style=flat&labelColor=FFBF00&logo=star)](https://github.com/1upfunniguy?tab=repositories&sort=stargazers)
+[![Follow me on Github](https://img.shields.io/github/followers/1upfunniguy?color=236ad3&style=flat&logo=github&label=Follow)](https://github.com/1upfunniguy)
+![Status](https://api.statusbadges.me/badge/status/850970861305331712?style=flat)
+![Playing](https://api.statusbadges.me/badge/playing/850970861305331712?style=flat)
+![VSCode](https://api.statusbadges.me/badge/vscode/850970861305331712)
+[![Spotify](https://api.statusbadges.me/badge/spotify/850970861305331712)](https://api.statusbadges.me/openspotify/850970861305331712)
+ 
+ </div>
+ <div align="center">
+   <div id="toc">
+  <ul style="list-style: none;">
+    <summary>
+      
 ## Top Sponsors
-
-
+   
+   </summary>
+  </ul>
+</div>
 
 **1. Noone :(**
 
@@ -58,32 +43,38 @@
 
 **3. Noone :(**
 
-
-
-
-   <a href="https://github.com/sponsors/1upfunniguy"><img alt="sponsors" title="All Sponsors" src="https://img.shields.io/badge/-All Sponsors-FD9494?style=flat&logo=GitHub&logoColor=black"/></a>
-
-
-
-
-  
-    
+[![All Sponsors](https://img.shields.io/badge/-All%20Sponsors-FD9494?style=for-the-badge&logo=GitHub&logoColor=black)](https://github.com/sponsors/1upfunniguy)
+</div>
+ <div id="toc">
+  <ul style="list-style: none;">
+    <summary>
+      
 ## What I'm Doing
+   
+   </summary>
+  </ul>
+</div>
 
 - YOUR MOM
 
-   
-
-
-  
-    
+ <div id="toc">
+  <ul style="list-style: none;">
+    <summary>
+      
 ## Languages and Tools
+   
+   </summary>
+  </ul>
+</div>
+
   <p float="left">
- <a href="https://vscode.dev"><img src="https://skillicons.dev/icons?i=vscode"> </a> 
-    <a href="https://github.com/1upfunniguy"><img src="https://skillicons.dev/icons?i=github"> </a> 
-    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css"> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html"> </a> 
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js"> </a> 
-    <a href="https://nodejs.org"><img src="https://skillicons.dev/icons?i=nodejs"> </a> </p> 
+    
+[![VSCode](https://skillicons.dev/icons?i=vscode)](https://vscode.dev)
+[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/1upfunniguy)
+[![CSS](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![HTML](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![JavaScript](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Node.js](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org)
 
   ## I love github by 1up (edited by teker)
   
@@ -116,8 +107,9 @@ And I love you like Github loves Ai
 ![](https://github-contributor-stats.vercel.app/api?username=1upfunniguy&limit=5&theme=radical&hide_border=true&combine_all_yearly_contributions=true)
 
 [![](https://visitcount.itsvg.in/api?id=1upfunniguy&icon=0&color=0)](https://visitcount.itsvg.in)
+
+[![Profile Count](https://komarev.com/ghpvc/?username=1upfunniguy&style=flat&color=brightgreen)](https://github.com/1upfunniguy)
  
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical">
   </div>
       </details>
       
