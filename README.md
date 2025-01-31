@@ -1,17 +1,17 @@
-[![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://stand-with-ukraine.pp.ua)
+[![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://stand-with-ukraine.pp.ua "help ukraine")
 
 > [!CAUTION]
 > :trollface: Incompetent programmer alert :trollface:
 
 <div align="center">
   
-![welcome](https://images.cooltext.com/5720971.png)
+[![welcome](https://images.cooltext.com/5720971.png)](https://github.com/1upfunniguy/ "welcome")
 
 </div>
 
 <div align="center">
   
-![Typed Text](https://readme-typing-svg.demolab.com?width=435&lines=Wsp+I'm+1up;I+like+coding%2C+gaming%2C+making+videos%2C+streaming+and+other+stuff+im+also+bi&font=Helvetica-Bold&center=true&width=700&height=45&color=763FF7&vCenter=true&pause=1000&size=15)
+[![Typed Text](https://readme-typing-svg.demolab.com?width=435&lines=Wsp+I'm+1up;I+like+coding%2C+gaming%2C+making+videos%2C+streaming+and+other+stuff+im+also+bi&font=Helvetica-Bold&center=true&width=700&height=45&color=763FF7&vCenter=true&pause=1000&size=15)](https://readme-typing-svg.demolab.com "typing thingy")
 
 </div>
 
@@ -20,22 +20,23 @@
 
 <div align="center">
   
-[![Youtube](https://img.shields.io/badge/-Youtube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@1upfunniguy)
-[![Bluesky](https://img.shields.io/badge/-Bluesky-019CE0?style=flat&logo=bluesky&logoColor=white)](https://bsky.app/profile/1upfunniguy.bsky.social)
-[![Total stars on GitHub](https://custom-icon-badges.demolab.com/github/stars/1upfunniguy?color=FFD700&style=flat&labelColor=FFBF00&logo=star)](https://github.com/1upfunniguy?tab=repositories&sort=stargazers)
-[![Gobba Badge](https://custom-icon-badges.demolab.com/badge/approved-purple?style=flat&label=gobba&logoColor=&logo=gobba-without-bg)](https://gaxle.vercel.app "gobba axle")
+[![Youtube](https://img.shields.io/badge/-Youtube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@1upfunniguy "youtube")
+[![Bluesky](https://img.shields.io/badge/-Bluesky-019CE0?style=flat&logo=bluesky&logoColor=white)](https://bsky.app/profile/1upfunniguy.bsky.social "bluesky")
+[![Total stars on GitHub](https://custom-icon-badges.demolab.com/github/stars/1upfunniguy?color=FFD700&style=flat&labelColor=FFBF00&logo=star)](https://github.com/1upfunniguy?tab=repositories&sort=stargazers "stars")
+[![Gobba Badge](https://custom-icon-badges.demolab.com/badge/approved-purple?style=flat&label=gobba&logoColor=&logo=gobba-without-bg)](https://gaxle.vercel.app "gobba")
 [![Googie Badge](https://custom-icon-badges.demolab.com/badge/approved-5C4033?style=flat&label=googie&logoColor=&logo=googie)](http://bribble.co/dog.html "googie web")
-[![Sad Spongebob Badge](https://custom-icon-badges.demolab.com/badge/spongebob-yellow?style=flat&label=sad&logoColor=&logo=sad-spongebob)](https://for-vercel-yay.vercel.app "sad spongebob")
-[![Follow me on Github](https://img.shields.io/github/followers/1upfunniguy?color=236ad3&style=flat&logo=github&label=Follow)](https://github.com/1upfunniguy)
-![Status](https://api.statusbadges.me/badge/status/850970861305331712?style=flat)
-![Playing](https://api.statusbadges.me/badge/playing/850970861305331712?style=flat)
-![VSCode](https://api.statusbadges.me/badge/vscode/850970861305331712)
-[![Spotify](https://api.statusbadges.me/badge/spotify/850970861305331712)](https://api.statusbadges.me/openspotify/850970861305331712)
-[![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg)](https://stand-with-ukraine.pp.ua)
-![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=flat&logo=Firefox-Browser&logoColor=white)
+[![Sad Spongebob Badge](https://custom-icon-badges.demolab.com/badge/spongebob-yellow?style=flat&label=sad&logoColor=&logo=sad-spongebob)](https://www.reddit.com/r/spongebob/comments/17qb955/why_is_spongebob_sad_wrong_answers_only/ "sad spongebob")
+[![Sad Spongebob Badge](https://custom-icon-badges.demolab.com/badge/approved-white?style=flat&label=fwip&logoColor=&logo=fwip)](https://rizz.com "fwip")
+[![Follow me on Github](https://img.shields.io/github/followers/1upfunniguy?color=236ad3&style=flat&logo=github&label=Follow)](https://github.com/1upfunniguy "followers")
+[![Status](https://api.statusbadges.me/badge/status/850970861305331712?style=flat)](https://discord.com/users/850970861305331712 "my status")
+[![Playing](https://api.statusbadges.me/badge/playing/850970861305331712?style=flat)](https://discord.com/users/850970861305331712 "what i'm playing")
+[![VSCode](https://api.statusbadges.me/badge/vscode/850970861305331712)](https://code.visualstudio.com "vscode")
+[![Spotify](https://api.statusbadges.me/badge/spotify/850970861305331712)](https://api.statusbadges.me/openspotify/850970861305331712 "spotify")
+[![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg)](https://stand-with-ukraine.pp.ua "stand with ukraine")
+[![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=flat&logo=Firefox-Browser&logoColor=white)](https://www.mozilla.org/en-US/firefox/ "firefox")
 [![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=flat&logo=steam&logoColor=white)](https://steamcommunity.com/id/1upfunniguy)
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black&style=flat)](https://buymeacoffee.com/linkthesupm)
-[![Github-sponsors](https://img.shields.io/badge/sponsor-30363D?style=flat&logo=GitHub-Sponsors&logoColor=#EA4AAA)](https://github.com/sponsors/1upfunniguy)
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black&style=flat)](https://buymeacoffee.com/linkthesupm "buy me a coffee")
+[![Github-sponsors](https://img.shields.io/badge/sponsor-30363D?style=flat&logo=GitHub-Sponsors&logoColor=#EA4AAA)](https://github.com/sponsors/1upfunniguy "sponser me")
  </div>
  
  <div align="center">
