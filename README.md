@@ -6,10 +6,14 @@
 <div align="center">
   
 ![welcome](https://images.cooltext.com/5720971.png)
+
 </div>
 
-![Typed Text](https://readme-typing-svg.demolab.com/?lines=Yo%20wsp%20I'm%201up;My%20account%20has%20been%20seen%20by%20over%201%20person&font=Helvetica-Bold&center=true&width=700&height=45&color=A020F0&vCenter=true&pause=1000&size=25)
-</p>
+<div align="center">
+  
+![Typed Text](https://readme-typing-svg.demolab.com/?lines=Yo%20wsp%20I'm%201up;I%20like%20gaming,%20coding,%20and%20other%20stuff%20I'm%20also%20bi%20🩷💜💙&font=Helvetica-Bold&center=true&width=700&height=45&color=A020F0&vCenter=true&pause=1000&size=25)
+
+</div>
 
 <h3 align="center">wsp I'm <a href="https://github.com/1upfunniguy">1up</a></h3>
 <h5 align="center">Below are a few links you can visit and some stats to look at too</h5>
