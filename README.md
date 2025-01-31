@@ -116,9 +116,12 @@ And I love you like Github loves Ai
 <div align="center">
   
 ![readme stats](https://github-readme-stats.vercel.app/api?username=1upfunniguy&hide_border=true&show_icons=true&count_private=true&theme=radical)
-![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=1upfunniguy&hide_border=true&show_icons=true&count_private=true&theme=radical)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=1upfunniguy&theme=radical&hide_border=true&mode=weekly)](https://git.io/streak-stats)
+
 ![contributions](https://github-contributor-stats.vercel.app/api?username=1upfunniguy&limit=5&theme=radical&hide_border=true&combine_all_yearly_contributions=true)
+
+![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=1upfunniguy&hide_border=true&show_icons=true&count_private=true&theme=radical)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=1upfunniguy&theme=radical&hide_border=true&mode=weekly)](https://git.io/streak-stats)
 [![1up's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=1upfunniguy)](https://github.com/ashutosh00710/github-readme-activity-graph)
 [![trophy](https://github-profile-trophy.vercel.app/?username=1upfunniguy&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 [![Discord Presence](https://lanyard.cnrad.dev/api/850970861305331712)](https://discord.com/users/850970861305331712)
