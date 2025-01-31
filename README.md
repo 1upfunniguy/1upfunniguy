@@ -123,7 +123,7 @@ And I love you like Github loves Ai
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/850970861305331712)](https://discord.com/users/850970861305331712)
 
-[![Visitor Count](https://profile-counter.glitch.me/1upfunniguy/count.svg)](https://count.getloli.com/@1upfunniguy?name=1upfunniguy&theme=booru-jaypee&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=1)
+[![Visitor Count](https://count.getloli.com/@1upfunniguy?name=1upfunniguy&theme=booru-jaypee&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=1)](https://count.getloli.com/)
 
   </div>
       </details>
