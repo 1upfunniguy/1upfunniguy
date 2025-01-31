@@ -85,7 +85,6 @@
 [![CSS](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![HTML](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![JavaScript](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![Node.js](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org)
  
  <div id="toc">
   <ul style="list-style: none;">
