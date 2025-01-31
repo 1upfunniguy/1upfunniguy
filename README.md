@@ -11,7 +11,7 @@
 
 <div align="center">
   
-![Typed Text](https://readme-typing-svg.demolab.com/?lines=Yo%20wsp%20I'm%201up;I%20like%20gaming,%20coding,%20and%20other%20stuff%20I'm%20also%20bi%20🩷💜💙&font=Helvetica-Bold&center=true&width=700&height=45&color=A020F0&vCenter=true&pause=1000&size=25)
+![Typed Text](https://readme-typing-svg.demolab.com?width=435&lines=Wsp+I'm+1up;I+like+coding%2C+gaming%2C+making+videos%2C+streaming+and+other+stuff+im+also+bi&font=Helvetica-Bold&center=true&width=700&height=45&color=763FF7&vCenter=true&pause=1000&size=15)
 
 </div>
 
