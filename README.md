@@ -1,5 +1,5 @@
 > [!CAUTION]
-> Incompetent programer alert
+> :trollface: Incompetent programer alert :trollface:
 
 <p align="center">
   <a href="https://github.com/"> 
@@ -31,7 +31,7 @@
   <ul style="list-style: none;">
     <summary>
       
-## Top Sponsors
+## Top Sponsors :trollface:
    
    </summary>
   </ul>
@@ -48,20 +48,12 @@
  <div id="toc">
   <ul style="list-style: none;">
     <summary>
-      
-## What I'm Doing
-   
-   </summary>
-  </ul>
-</div>
-
-- YOUR MOM
 
  <div id="toc">
   <ul style="list-style: none;">
     <summary>
       
-## Languages and Tools
+## Languages and Tools :trollface:
    
    </summary>
   </ul>
@@ -75,8 +67,12 @@
 [![HTML](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![JavaScript](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![Node.js](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org)
-
-  ## I love github by 1up (edited by teker)
+ 
+ <div id="toc">
+  <ul style="list-style: none;">
+    <summary>
+      
+  ## I love github by 1up (edited by teker) :trollface:
   
 I miss the old GitHub, simple menu's GitHub
 Filled with the juice, GitHub, set on they goals, GitHub
@@ -91,24 +87,30 @@ What if GitHub made a blog post about GitHub
 Called "We miss the old GitHub," man that'd be so GitHub
 That's all I was GitHub, we still love GitHub
 And I love you like Github loves Ai
+   
+   </summary>
+  </ul>
+</div>
 
  <details>
   <summary>
     
-## My Stats and quotes from devs
+# My Stats :trollface:
   </summary>
   
 <div align="center">
   
-![](https://github-readme-stats.vercel.app/api?username=1upfunniguy&hide_border=true&show_icons=true&count_private=true&theme=radical)
+![readme stats](https://github-readme-stats.vercel.app/api?username=1upfunniguy&hide_border=true&show_icons=true&count_private=true&theme=radical)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=1upfunniguy&hide_border=true&show_icons=true&count_private=true&theme=radical)   
+![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=1upfunniguy&hide_border=true&show_icons=true&count_private=true&theme=radical)   
 
-![](https://github-contributor-stats.vercel.app/api?username=1upfunniguy&limit=5&theme=radical&hide_border=true&combine_all_yearly_contributions=true)
+![contributions](https://github-contributor-stats.vercel.app/api?username=1upfunniguy&limit=5&theme=radical&hide_border=true&combine_all_yearly_contributions=true)
 
-[![](https://visitcount.itsvg.in/api?id=1upfunniguy&icon=0&color=0)](https://visitcount.itsvg.in)
+[![1up's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=1upfunniguy)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-[![Profile Count](https://komarev.com/ghpvc/?username=1upfunniguy&style=flat&color=brightgreen)](https://github.com/1upfunniguy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=1upfunniguy&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+
+![Visitor Count](https://profile-counter.glitch.me/1upfunniguy/count.svg)
  
   </div>
       </details>
@@ -116,7 +118,7 @@ And I love you like Github loves Ai
    <details>
   <summary>
 
-  ## discover others with the octo ring
+  # Discover others with the octo ring :trollface:
   </summary>
 <div align="center"><table><tbody><tr><td><a href="https://octo-ring.com/"><img height="60px" src="https://octo-ring.com/static/img/widget/top.png"
 width="99%" alt="Octo Ring logo" align="top"></a><br><a href="https://octo-ring.com/p/1upfunniguy/prev"><img src="https://octo-ring.com/static/img/widget/prev.png" width="33%" alt="previous" align="top" title="previous profile"></a><a href="https://octo-ring.com/p/1upfunniguy/random"><img src="https://octo-ring.com/static/img/widget/random.png" width="33%" alt="random" align="top" title="random profile"></a><a href="https://octo-ring.com/p/1upfunniguy/next"><img src="https://octo-ring.com/static/img/widget/next.png" width="33%" alt="next" align="top" title="next profile"></a><br><a href="https://octo-ring.com/"><img src="https://octo-ring.com/static/img/widget/bottom.png" width="99%" alt="check out other GitHub profiles in the Octo Ring" align="top"></a></td></tr></tbody></table></div>
@@ -138,3 +140,22 @@ width="99%" alt="Octo Ring logo" align="top"></a><br><a href="https://octo-ring.
   />
 </picture>
 </div>
+
+```SILAS THE SKELETON!!!! 🐗🤯
+▒▒▒░░░░░░░░░░▄▐░░░░
+▒░░░░░░▄▄▄░░▄██▄░░░
+░░░░░░▐▀█▀▌░░░░▀█▄░
+░░░░░░▐█▄█▌░░░░░░▀█▄             Silas the Skeleton says hi!
+░░░░░░░▀▄▀░░░▄▄▄▄▄▀▀
+░░░░░▄▄▄██▀▀▀▀░░░░░         Add Silas to your profile to help him 
+░░░░█▀▄▄▄█░▀▀░░░░░░                  travel across GitHub!
+░░░░▌░▄▄▄▐▌▀▀▀░░░░░
+░▄░▐░░░▄▄░█░▀▀░░░░░
+░▀█▌░░░▄░▀█▀░▀░░░░░
+░░░░░░░░▄▄▐▌▄▄░░░░░
+░░░░░░░░▀███▀█░▄░░░
+░░░░░░░▐▌▀▄▀▄▀▐▄░░░
+░░░░░░░▐▀░░░░░░▐▌░░
+░░░░░░░█░░░░░░░░█░░
+░░░░░░▐▌░░░░░░░░░█░ 
+```
