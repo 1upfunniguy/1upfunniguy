@@ -5,7 +5,7 @@
 
 <div align="center">
   
-![1up](https://images.cooltext.com/5722466.png)
+![welcome](https://images.cooltext.com/5720971.png)
 </div>
 
 ![Typed Text](https://readme-typing-svg.demolab.com/?lines=Yo%20wsp%20I'm%201up;My%20account%20has%20been%20seen%20by%20over%201%20person&font=Helvetica-Bold&center=true&width=700&height=45&color=A020F0&vCenter=true&pause=1000&size=25)
