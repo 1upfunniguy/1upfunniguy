@@ -15,12 +15,16 @@
 <h5 align="center">Below are a few links you can visit and some stats to look at too</h5>
 
 <p align="center">
-  <a href="https://www.youtube.com/@1upfunniguy"><img alt="Youtube" title="Youtube" src="https://img.shields.io/badge/-Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
-  <a href="https://bsky.app/profile/1upfunniguy.bsky.social"><img alt="Bluesky" title="Bluesky" src="https://img.shields.io/badge/-Bluesky-019CE0?style=for-the-badge&logo=bluesky&logoColor=white"/></a> 
+  <a href="https://www.youtube.com/@1upfunniguy"><img alt="Youtube" title="Youtube" src="https://img.shields.io/badge/-Youtube-FF0000?style=flat&logo=youtube&logoColor=white"/></a>
+  <a href="https://bsky.app/profile/1upfunniguy.bsky.social"><img alt="Bluesky" title="Bluesky" src="https://img.shields.io/badge/-Bluesky-019CE0?style=flat&logo=bluesky&logoColor=white"/></a> 
 <a href="https://github.com/1upfunniguy?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/1upfunniguy?color=FFD700&style=for-the-badge&labelColor=FFBF00&logo=star"/></a>
-   <a href="https://github.com/1upfunniguy"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/1upfunniguy?color=236ad3&style=for-the-badge&logo=github&label=Follow"/></a>
- <a href="https://wakatime.com/@256be547-679a-45d3-967e-ea60615ceb81"><img src="https://wakatime.com/badge/user/256be547-679a-45d3-967e-ea60615ceb81.svg?style=for-the-badge" alt="Total time coded since May 22 2024" /></a>
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/1upfunniguy?color=FFD700&style=flat&labelColor=FFBF00&logo=star"/></a>
+   <a href="https://github.com/1upfunniguy"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/1upfunniguy?color=236ad3&style=flat&logo=github&label=Follow"/></a>
+ <a href="https://wakatime.com/@256be547-679a-45d3-967e-ea60615ceb81"><img src="https://wakatime.com/badge/user/256be547-679a-45d3-967e-ea60615ceb81.svg?style=flat" alt="Total time coded since May 22 2024" /></a>
+  <img src="https://api.statusbadges.me/badge/status/850970861305331712?style=flat" alt="status">
+  <img src="https://api.statusbadges.me/badge/playing/850970861305331712?style=flat" alt="playing">
+<img src="https://api.statusbadges.me/badge/vscode/850970861305331712" alt="vscode">
+<a href="https://api.statusbadges.me/openspotify/850970861305331712" target="_blank" rel="noopener"><img src="https://api.statusbadges.me/badge/spotify/850970861305331712" alt="spotify"></a>
  </p>
  
  
@@ -36,7 +40,7 @@
     </tr>
     <tr>
       <td>
-         <a href="https://github.com/1upfunniguy"> <img src="https://komarev.com/ghpvc/?username=1upfunniguy&style=for-the-badge&color=brightgreen"> </a>
+         <a href="https://github.com/1upfunniguy"> <img src="https://komarev.com/ghpvc/?username=1upfunniguy&style=flat&color=brightgreen"> </a>
       </td>
     </tr>
   </table>
@@ -58,7 +62,7 @@
 
 
 
-   <a href="https://github.com/sponsors/1upfunniguy"><img alt="sponsors" title="All Sponsors" src="https://img.shields.io/badge/-All Sponsors-FD9494?style=for-the-badge&logo=GitHub&logoColor=black"/></a>
+   <a href="https://github.com/sponsors/1upfunniguy"><img alt="sponsors" title="All Sponsors" src="https://img.shields.io/badge/-All Sponsors-FD9494?style=flat&logo=GitHub&logoColor=black"/></a>
 
 
 
