@@ -106,7 +106,7 @@ And I love you like Github loves Ai
  <details>
   <summary>
     
-# My Stats :trollface:
+# My stats and discord :trollface:
   </summary>
   
 <div align="center">
@@ -121,8 +121,9 @@ And I love you like Github loves Ai
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=1upfunniguy&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
+[![Discord Presence](https://lanyard.cnrad.dev/api/850970861305331712)](https://discord.com/users/850970861305331712)
+
 ![Visitor Count](https://profile-counter.glitch.me/1upfunniguy/count.svg)
- 
   </div>
       </details>
       
