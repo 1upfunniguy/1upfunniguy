@@ -20,7 +20,6 @@
 <a href="https://github.com/1upfunniguy?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/1upfunniguy?color=FFD700&style=flat&labelColor=FFBF00&logo=star"/></a>
    <a href="https://github.com/1upfunniguy"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/1upfunniguy?color=236ad3&style=flat&logo=github&label=Follow"/></a>
- <a href="https://wakatime.com/@256be547-679a-45d3-967e-ea60615ceb81"><img src="https://wakatime.com/badge/user/256be547-679a-45d3-967e-ea60615ceb81.svg?style=flat" alt="Total time coded since May 22 2024" /></a>
   <img src="https://api.statusbadges.me/badge/status/850970861305331712?style=flat" alt="status">
   <img src="https://api.statusbadges.me/badge/playing/850970861305331712?style=flat" alt="playing">
 <img src="https://api.statusbadges.me/badge/vscode/850970861305331712" alt="vscode">
