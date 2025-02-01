@@ -34,14 +34,14 @@
 [![Spotify](https://api.statusbadges.me/badge/spotify/850970861305331712)](https://api.statusbadges.me/openspotify/850970861305331712 "spotify")
 [![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg)](https://stand-with-ukraine.pp.ua "stand with ukraine")
 [![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=flat&logo=Firefox-Browser&logoColor=white)](https://www.mozilla.org/en-US/firefox/ "firefox")
-[![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=flat&logo=steam&logoColor=white)](https://steamcommunity.com/id/1upfunniguy)
+[![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=flat&logo=steam&logoColor=white)](https://steamcommunity.com/id/1upfunniguy "steam")
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black&style=flat)](https://buymeacoffee.com/linkthesupm "buy me a coffee")
 [![Github-sponsors](https://img.shields.io/badge/sponsor-30363D?style=flat&logo=GitHub-Sponsors&logoColor=#EA4AAA)](https://github.com/sponsors/1upfunniguy "sponser me")
  </div>
  
  <div align="center">
    
- ![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=radical&animation=grow_out_in&layout=default&font=default&quoteType=random)
+ [![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=radical&animation=grow_out_in&layout=default&font=default&quoteType=random)](https://github-readme-quotes-bay.vercel.app "github quotes")
  
  </div>
  
@@ -62,7 +62,7 @@
 
 **3. Noone :(**
 
-[![All Sponsors](https://img.shields.io/badge/-All%20Sponsors-FD9494?style=for-the-badge&logo=GitHub&logoColor=black)](https://github.com/sponsors/1upfunniguy)
+[![All Sponsors](https://img.shields.io/badge/-All%20Sponsors-FD9494?style=for-the-badge&logo=GitHub&logoColor=black)](https://github.com/sponsors/1upfunniguy "all sponsers")
 </div>
  <div id="toc">
   <ul style="list-style: none;">
@@ -80,11 +80,13 @@
 
   <p float="left">
     
-[![VSCode](https://skillicons.dev/icons?i=vscode)](https://vscode.dev)
-[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/1upfunniguy)
-[![CSS](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![HTML](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![JavaScript](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![VSCode](https://skillicons.dev/icons?i=vscode)](https://vscode.dev "vscode")
+[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/1upfunniguy "github")
+[![CSS](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/en-US/docs/Web/CSS "css")
+[![Discord](https://skillicons.dev/icons?i=discord)](https://discord.com "discord")
+[![HTML](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/en-US/docs/Web/HTML "html")
+[![JavaScript](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/JavaScript "js")
+[![Markdown](https://skillicons.dev/icons?i=markdown)](https://www.markdownguide.org/ "markdown")
  
  <div id="toc">
   <ul style="list-style: none;">
@@ -118,17 +120,17 @@ And I love you like Github loves Ai
   
 <div align="center">
   
-![readme stats](https://github-readme-stats.vercel.app/api?username=1upfunniguy&hide_border=true&show_icons=true&count_private=true&theme=radical)
+[![readme stats](https://github-readme-stats.vercel.app/api?username=1upfunniguy&hide_border=true&show_icons=true&count_private=true&theme=radical)](https://github-readme-stats.vercel.app "readme stats")
 
-![contributions](https://github-contributor-stats.vercel.app/api?username=1upfunniguy&limit=5&theme=radical&hide_border=true&combine_all_yearly_contributions=true)
+[![contributions](https://github-contributor-stats.vercel.app/api?username=1upfunniguy&limit=5&theme=radical&hide_border=true&combine_all_yearly_contributions=true)](https://github-contributor-stats.vercel.app "github contributions")
 
-![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=1upfunniguy&hide_border=true&show_icons=true&count_private=true&theme=radical)
+[![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=1upfunniguy&hide_border=true&show_icons=true&count_private=true&theme=radical)](https://github-readme-stats.vercel.app/api/top-langs "github top lags")
 
-[![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=1upfunniguy&theme=radical&hide_border=true&mode=weekly)](https://git.io/streak-stats)
-[![1up's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=1upfunniguy)](https://github.com/ashutosh00710/github-readme-activity-graph)
-[![trophy](https://github-profile-trophy.vercel.app/?username=1upfunniguy&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
-[![Discord Presence](https://lanyard.cnrad.dev/api/850970861305331712)](https://discord.com/users/850970861305331712)
-[![Visitor Count](https://count.getloli.com/@1upfunniguy?name=1upfunniguy&theme=booru-jaypee&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=1)](https://count.getloli.com/)
+[![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=1upfunniguy&theme=radical&hide_border=true&mode=weekly)](https://git.io/streak-stats "streak stats")]
+[![1up's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=1upfunniguy)](https://github.com/ashutosh00710/github-readme-activity-graph "activity graph")
+[![trophy](https://github-profile-trophy.vercel.app/?username=1upfunniguy&theme=radical)](https://github.com/ryo-ma/github-profile-trophy "github trophies")
+[![Discord Presence](https://lanyard.cnrad.dev/api/850970861305331712)](https://discord.com/users/850970861305331712 "discord presence")
+[![Visitor Count](https://count.getloli.com/@1upfunniguy?name=1upfunniguy&theme=booru-jaypee&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=0)](https://moewcount.lolihouse.top/ "profile count")
 
   </div>
       </details>
@@ -141,7 +143,7 @@ And I love you like Github loves Ai
 <div align="center"><table><tbody><tr><td><a href="https://github.com/1upfunniguy/"><img height="100px" src="https://octo-ring.com/static/img/widget/top.png"
 width="99%" alt="Octo Ring logo" align="top"></a><br><a href="https://octo-ring.com/p/1upfunniguy/prev"><img src="https://octo-ring.com/static/img/widget/prev.png" width="33%" alt="previous" align="top" title="previous profile"></a><a href="https://octo-ring.com/p/1upfunniguy/random"><img src="https://octo-ring.com/static/img/widget/random.png" width="33%" alt="random" align="top" title="random profile"></a><a href="https://octo-ring.com/p/1upfunniguy/next"><img src="https://octo-ring.com/static/img/widget/next.png" width="33%" alt="next" align="top" title="next profile"></a><br><a href="https://octo-ring.com/"></a></td></tr></tbody></table></div>
 
-[![Octo Ring Logo](https://octo-ring.com/static/img/octo.png)](https://octo-ring.com) <-- Thanks octo ring (click the octopus to go to their webpage)
+[![Octo Ring Logo](https://octo-ring.com/static/img/octo.png)](https://octo-ring.com "octo ring logo") <-- Thanks octo ring (click the octopus to go to their webpage)
     </details>
 
 <div align="center"> 
