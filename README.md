@@ -1,9 +1,5 @@
-<div align="center">
   
 [![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://stand-with-ukraine.pp.ua "help ukraine")
-[![Discord arts](https://discord-arts.asure.dev/card/850970861305331712?customBackground=https%3A%2F%2Fimages.squarespace-cdn.com%2Fcontent%2Fv1%2F5f2ef218103c7a08855bdbf5%2F1683994669100-L552LVGYPWNHLQDS9KYN%2FGoogle_ChromeThemes_ThroughtheLilyPad_v01.jpg&presenceStatus=online&borderAllign=horizontal&usernameColor=%2362e8cc&tagColor=%235fbe9a&borderColor=%236fe3a2&localDateType=en-US&disableProfileTheme=true&customDate=Skibidi)](https://discord.com/users/850970861305331712 "discord")
-
-</div>
 
 > [!CAUTION]
 > :trollface: Incompetent programmer alert :trollface:
@@ -45,6 +41,8 @@
  </div>
  
  <div align="center">
+   
+[![Discord arts](https://discord-arts.asure.dev/card/850970861305331712?customBackground=https%3A%2F%2Fimages.squarespace-cdn.com%2Fcontent%2Fv1%2F5f2ef218103c7a08855bdbf5%2F1683994669100-L552LVGYPWNHLQDS9KYN%2FGoogle_ChromeThemes_ThroughtheLilyPad_v01.jpg&presenceStatus=online&borderAllign=horizontal&usernameColor=%2362e8cc&tagColor=%235fbe9a&borderColor=%236fe3a2&localDateType=en-US&disableProfileTheme=true&customDate=Skibidi)](https://discord.com/users/850970861305331712 "discord")
    
  [![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=radical&animation=grow_out_in&layout=default&font=default&quoteType=random)](https://github-readme-quotes-bay.vercel.app "github quotes")
  
