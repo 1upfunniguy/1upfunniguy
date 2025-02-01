@@ -27,7 +27,7 @@
 [![Gobba Badge](https://custom-icon-badges.demolab.com/badge/approved-purple?style=flat&label=gobba&logoColor=&logo=gobba-without-bg)](https://gaxle.vercel.app "gobba")
 [![Googie Badge](https://custom-icon-badges.demolab.com/badge/approved-5C4033?style=flat&label=googie&logoColor=&logo=googie)](http://bribble.co/dog.html "googie web")
 [![Sad Spongebob Badge](https://custom-icon-badges.demolab.com/badge/spongebob-yellow?style=flat&label=sad&logoColor=&logo=sad-spongebob)](https://www.reddit.com/r/spongebob/comments/17qb955/why_is_spongebob_sad_wrong_answers_only/ "sad spongebob")
-[![Sad Spongebob Badge](https://custom-icon-badges.demolab.com/badge/approved-white?style=flat&label=fwip&logoColor=&logo=fwip)](https://rizz.com "fwip")
+[![SFwip](https://custom-icon-badges.demolab.com/badge/approved-white?style=flat&label=fwip&logoColor=&logo=fwip)](https://funny.com "fwip")
 [![Follow me on Github](https://img.shields.io/github/followers/1upfunniguy?color=236ad3&style=flat&logo=github&label=Follow)](https://github.com/1upfunniguy "followers")
 [![Status](https://api.statusbadges.me/badge/status/850970861305331712?style=flat)](https://discord.com/users/850970861305331712 "my status")
 [![Playing](https://api.statusbadges.me/badge/playing/850970861305331712?style=flat)](https://discord.com/users/850970861305331712 "what i'm playing")
