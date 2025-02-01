@@ -27,7 +27,7 @@
 [![Gobba Badge](https://custom-icon-badges.demolab.com/badge/approved-purple?style=flat&label=gobba&logoColor=&logo=gobba-without-bg)](https://gaxle.vercel.app "gobba")
 [![Googie Badge](https://custom-icon-badges.demolab.com/badge/approved-5C4033?style=flat&label=googie&logoColor=&logo=googie)](http://bribble.co/dog.html "googie web")
 [![Sad Spongebob Badge](https://custom-icon-badges.demolab.com/badge/spongebob-yellow?style=flat&label=sad&logoColor=&logo=sad-spongebob)](https://www.reddit.com/r/spongebob/comments/17qb955/why_is_spongebob_sad_wrong_answers_only/ "sad spongebob")
-[![SFwip](https://custom-icon-badges.demolab.com/badge/approved-white?style=flat&label=fwip&logoColor=&logo=fwip)](https://funny.com "fwip")
+[![Fwip](https://custom-icon-badges.demolab.com/badge/approved-white?style=flat&label=fwip&logoColor=&logo=fwip)](https://funny.com "fwip")
 [![Follow me on Github](https://img.shields.io/github/followers/1upfunniguy?color=236ad3&style=flat&logo=github&label=Follow)](https://github.com/1upfunniguy "followers")
 [![Status](https://api.statusbadges.me/badge/status/850970861305331712?style=flat)](https://discord.com/users/850970861305331712 "my status")
 [![Playing](https://api.statusbadges.me/badge/playing/850970861305331712?style=flat)](https://discord.com/users/850970861305331712 "what i'm playing")
@@ -133,7 +133,7 @@ And I love you like Github loves Ai
 [![1up's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=1upfunniguy)](https://github.com/ashutosh00710/github-readme-activity-graph "activity graph")
 [![trophy](https://github-profile-trophy.vercel.app/?username=1upfunniguy&theme=radical)](https://github.com/ryo-ma/github-profile-trophy "github trophies")
 [![Discord Presence](https://lanyard.cnrad.dev/api/850970861305331712)](https://discord.com/users/850970861305331712 "discord presence")
-[![Visitor Count](https://count.getloli.com/@1upfunniguy?name=1upfunniguy&theme=booru-jaypee&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=0)](https://moewcount.lolihouse.top/ "profile count")
+[![Visitor Count](https://count.getloli.com/@1upfunniguy?name=1upfunniguy&theme=booru-jaypee&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=0)]((https://count.getloli.com/ "profile count")
 
   </div>
       </details>
