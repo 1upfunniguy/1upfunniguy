@@ -38,8 +38,9 @@
 [![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=flat&logo=steam&logoColor=white)](https://steamcommunity.com/id/1upfunniguy "steam")
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black&style=flat)](https://buymeacoffee.com/linkthesupm "buy me a coffee")
 [![Github-sponsors](https://img.shields.io/badge/sponsor-30363D?style=flat&logo=GitHub-Sponsors&logoColor=#EA4AAA)](https://github.com/sponsors/1upfunniguy "sponser me")
-[![pride](https://pride-badges.pony.workers.dev/static/v1?label=created+by+a+person+who+is+gender+fluid&labelColor=%23555&stripeWidth=8&stripeColors=%23ff76a3%2C%23ffffff%2C%23bf11d7%2C%23000000%2C%23303cbe)
-
+[![pride](https://pride-badges.pony.workers.dev/static/v1?label=created+by+a+person+who+is+gender+fluid&labelColor=%23555&stripeWidth=8&stripeColors=%23ff76a3%2C%23ffffff%2C%23bf11d7%2C%23000000%2C%23303cbe)](https://pride-badges.pony.workers.dev "gender fluid")
+[![more pride](https://pride-badges.pony.workers.dev/static/v1?label=lgbtq%2B%20friendly&stripeWidth=6&stripeColors=E40303,FF8C00,FFED00,008026,24408E,732982
+)](https://pride-badges.pony.workers.dev "lgbtq+ friendly")
  </div>
  
  <div align="center">
@@ -86,7 +87,7 @@
 
   <p float="left">
     
-[![VSCode](https://skillicons.dev/icons?i=vscode,github,css,discord,html,js,markdown,nodejs,figma,git,ae,apple,au,bash,bitbucket,blender,cloudflare,discordjs,gitlab,gmail,githubactions,godot,heroku,ai,lua,linux,nodejs,npm,ps,php,pnpm,powershell,pr,py,replit,robloxstudio,svg,ts,vercel,visualstudio,windows,xd)](https://vscode.dev "vscode")
+[![skill icons](https://skillicons.dev/icons?i=vscode,github,css,discord,html,js,markdown,nodejs,figma,git,ae,apple,au,bash,bitbucket,blender,cloudflare,discordjs,gitlab,gmail,githubactions,godot,heroku,ai,lua,linux,nodejs,npm,ps,php,pnpm,powershell,pr,py,replit,robloxstudio,svg,ts,vercel,visualstudio,windows,xd)](https://skillicons.dev "skill icons")
 
  <div id="toc">
   <ul style="list-style: none;">
