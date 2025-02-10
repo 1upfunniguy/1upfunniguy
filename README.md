@@ -38,6 +38,8 @@
 [![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=flat&logo=steam&logoColor=white)](https://steamcommunity.com/id/1upfunniguy "steam")
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black&style=flat)](https://buymeacoffee.com/linkthesupm "buy me a coffee")
 [![Github-sponsors](https://img.shields.io/badge/sponsor-30363D?style=flat&logo=GitHub-Sponsors&logoColor=#EA4AAA)](https://github.com/sponsors/1upfunniguy "sponser me")
+[![pride](https://pride-badges.pony.workers.dev/static/v1?label=created+by+a+person+who+is+gender+fluid&labelColor=%23555&stripeWidth=8&stripeColors=%23ff76a3%2C%23ffffff%2C%23bf11d7%2C%23000000%2C%23303cbe)
+
  </div>
  
  <div align="center">
@@ -84,14 +86,8 @@
 
   <p float="left">
     
-[![VSCode](https://skillicons.dev/icons?i=vscode)](https://vscode.dev "vscode")
-[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/1upfunniguy "github")
-[![CSS](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/en-US/docs/Web/CSS "css")
-[![Discord](https://skillicons.dev/icons?i=discord)](https://discord.com "discord")
-[![HTML](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/en-US/docs/Web/HTML "html")
-[![JavaScript](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/JavaScript "js")
-[![Markdown](https://skillicons.dev/icons?i=markdown)](https://www.markdownguide.org/ "markdown")
- 
+[![VSCode](https://skillicons.dev/icons?i=vscode,github,css,discord,html,js,markdown,nodejs,figma,git,ae,apple,au,bash,bitbucket,blender,cloudflare,discordjs,gitlab,gmail,githubactions,godot,heroku,ai,lua,linux,nodejs,npm,ps,php,pnpm,powershell,pr,py,replit,robloxstudio,svg,ts,vercel,visualstudio,windows,xd)](https://vscode.dev "vscode")
+
  <div id="toc">
   <ul style="list-style: none;">
     <summary>
