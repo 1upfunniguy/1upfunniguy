@@ -29,7 +29,7 @@
 [![Sad Spongebob Badge](https://custom-icon-badges.demolab.com/badge/spongebob-yellow?style=flat&label=sad&logoColor=&logo=happyspongebob)](https://www.reddit.com/r/spongebob/comments/17qb955/why_is_spongebob_sad_wrong_answers_only/ "sad spongebob")
 [![Fwip](https://custom-icon-badges.demolab.com/badge/approved-white?style=flat&label=fwip&logoColor=&logo=fwipwithoutbg)](https://funny.com "fwip")
 [![Follow me on Github](https://img.shields.io/github/followers/1upfunniguy?color=236ad3&style=flat&logo=github&label=Follow)](https://github.com/1upfunniguy "followers")
-[![Status](https://api.statusbadges.me/badge/status/850970861305331712?style=flat)](https://api.statusbadges.me/presence/ "my status")
+[![Status](https://api.statusbadges.me/badge/status/850970861305331712?style=flat)](https://api.statusbadges.me/presence/850970861305331712 "my status")
 [![Playing](https://api.statusbadges.me/badge/playing/850970861305331712?style=flat)](https://discord.com/users/850970861305331712 "what i'm playing")
 [![VSCode](https://api.statusbadges.me/badge/vscode/850970861305331712)](https://code.visualstudio.com "vscode")
 [![Spotify](https://api.statusbadges.me/badge/spotify/850970861305331712)](https://api.statusbadges.me/openspotify/850970861305331712 "spotify")
