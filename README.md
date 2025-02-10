@@ -165,6 +165,10 @@ width="99%" alt="Octo Ring logo" align="top"></a><br><a href="https://octo-ring.
 </picture>
 </div>
 
+
+Made with <img style="height: 17px; vertical-align: bottom;" src="https://emoji.lgbt/assets/svg/fluid-sparkling-heart.svg"/> from 1up
+
+
 ```SILAS THE SKELETON!!!! 🐗🤯
 ▒▒▒░░░░░░░░░░▄▐░░░░
 ▒░░░░░░▄▄▄░░▄██▄░░░
