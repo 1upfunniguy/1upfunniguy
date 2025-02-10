@@ -30,9 +30,9 @@
 [![Fwip](https://custom-icon-badges.demolab.com/badge/approved-white?style=flat&label=fwip&logoColor=&logo=fwipwithoutbg)](https://funny.com "fwip")
 [![Follow me on Github](https://img.shields.io/github/followers/1upfunniguy?color=236ad3&style=flat&logo=github&label=Follow)](https://github.com/1upfunniguy "followers")
 [![Status](https://api.statusbadges.me/badge/status/850970861305331712?style=flat)](https://api.statusbadges.me/presence/850970861305331712 "my status")
-[![Playing](https://api.statusbadges.me/badge/playing/850970861305331712?style=flat)](https://discord.com/users/850970861305331712 "what i'm playing")
-[![VSCode](https://api.statusbadges.me/badge/vscode/850970861305331712)](https://code.visualstudio.com "vscode")
-[![Spotify](https://api.statusbadges.me/badge/spotify/850970861305331712)](https://api.statusbadges.me/openspotify/850970861305331712 "spotify")
+[![Playing](https://api.statusbadges.me/badge/playing/850970861305331712?style=flat&fallback=not%20much)](https://discord.com/users/850970861305331712 "what i'm playing")
+[![VSCode](https://api.statusbadges.me/badge/vscode/850970861305331712&fallback=not%20much)](https://code.visualstudio.com "vscode")
+[![Spotify](https://api.statusbadges.me/badge/spotify/850970861305331712&fallback=not%20much)](https://api.statusbadges.me/openspotify/850970861305331712 "spotify")
 [![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg)](https://stand-with-ukraine.pp.ua "stand with ukraine")
 [![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=flat&logo=Firefox-Browser&logoColor=white)](https://www.mozilla.org/en-US/firefox/ "firefox")
 [![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=flat&logo=steam&logoColor=white)](https://steamcommunity.com/id/1upfunniguy "steam")
@@ -41,11 +41,11 @@
  </div>
  
  <div align="center">
-   
+    
 [![Discord arts](https://discord-arts.asure.dev/card/850970861305331712?customBackground=https%3A%2F%2Fimages.squarespace-cdn.com%2Fcontent%2Fv1%2F5f2ef218103c7a08855bdbf5%2F1683994669100-L552LVGYPWNHLQDS9KYN%2FGoogle_ChromeThemes_ThroughtheLilyPad_v01.jpg&presenceStatus=online&borderAllign=horizontal&usernameColor=%2362e8cc&tagColor=%235fbe9a&borderColor=%236fe3a2&localDateType=en-US&disableProfileTheme=true&customDate=Skibidi)](https://discord.com/users/850970861305331712 "discord")
-   
- [![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=radical&animation=grow_out_in&layout=default&font=default&quoteType=random)](https://github-readme-quotes-bay.vercel.app "github quotes")
- 
+
+![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=radical&animation=grow_out_in&layout=default&quoteType=random)
+
  </div>
  
  <div align="center">
@@ -66,6 +66,7 @@
 **3. Noone :(**
 
 [![All Sponsors](https://img.shields.io/badge/-All%20Sponsors-FD9494?style=for-the-badge&logo=GitHub&logoColor=black)](https://github.com/sponsors/1upfunniguy "all sponsers")
+
 </div>
  <div id="toc">
   <ul style="list-style: none;">
