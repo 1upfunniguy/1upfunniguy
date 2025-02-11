@@ -88,7 +88,7 @@
 
   <p float="left">
     
-[![skill icons](https://skillicons.dev/icons?i=vscode,github,css,discord,html,js,markdown,nodejs,figma,git,ae,apple,au,bash,bitbucket,blender,cloudflare,discordjs,gitlab,gmail,githubactions,godot,heroku,ai,lua,linux,nodejs,npm,ps,php,pnpm,powershell,pr,py,replit,robloxstudio,svg,ts,vercel,visualstudio,windows,xd)](https://skillicons.dev "skill icons")
+[![skill icons](https://go-skill-icons.vercel.app/api/icons?i=vscode,github,css,discord,html,js,markdown,nodejs,figma,git,ae,apple,au,bluesky,bash,bitbucket,blender,cloudflare,discordjs,gitlab,gmail,githubactions,godot,heroku,ai,lua,linux,nodejs,npm,ps,php,pnpm,powershell,pr,py,replit,firefox,robloxstudio,svg,ts,vercel,visualstudio,windows,xd,gamemakerstudio,canva,ngrok,notepadpp,youtube,steam,stock,lucidchart,creativecloud,terminal,raspberrypi,discordbots,holyc,dreamweaver,duckduckgo,fonts)](https://skillicons.dev "skill icons")
 
  <div id="toc">
   <ul style="list-style: none;">
