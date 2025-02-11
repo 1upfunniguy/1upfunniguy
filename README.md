@@ -17,7 +17,7 @@
 </div>
 
 <h3 align="center">wsp I'm <a href="https://github.com/1upfunniguy">1up</a></h3>
-<h5 align="center">Below are a few links you can visit and some stats to look at too</h5>
+<h5 align="center">Below are a few links you can visit and some badges to look at too</h5>
 
 <div align="center">
   
