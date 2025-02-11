@@ -131,7 +131,7 @@ And I love you like Github loves Ai
 
 [![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=1upfunniguy&theme=radical&hide_border=true&mode=weekly)](https://git.io/streak-stats "streak stats")]
 [![1up's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=1upfunniguy)](https://github.com/ashutosh00710/github-readme-activity-graph "activity graph")
-[![trophy](https://github-profile-trophy.vercel.app/?username=1upfunniguy&theme=radical)](https://github.com/ryo-ma/github-profile-trophy "github trophies")
+[![trophy](https://github-trophies.vercel.app/?username=1upfunniguy&theme=radical)](https://github.com/ryo-ma/github-profile-trophy "github trophies")
 [![Discord Presence](https://lanyard.cnrad.dev/api/850970861305331712)](https://discord.com/users/850970861305331712 "discord presence")
 [![Visitor Count](https://count.getloli.com/@1upfunniguy?name=1upfunniguy&theme=booru-jaypee&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=0)]((https://count.getloli.com/ "profile count")
 [![Sparkline](https://stars.medv.io/Naereen/badges.svg)](https://stars.medv.io/Naereen/badges)
