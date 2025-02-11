@@ -133,6 +133,7 @@ And I love you like Github loves Ai
 [![trophy](https://github-profile-trophy.vercel.app/?username=1upfunniguy&theme=radical)](https://github.com/ryo-ma/github-profile-trophy "github trophies")
 [![Discord Presence](https://lanyard.cnrad.dev/api/850970861305331712)](https://discord.com/users/850970861305331712 "discord presence")
 [![Visitor Count](https://count.getloli.com/@1upfunniguy?name=1upfunniguy&theme=booru-jaypee&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=0)]((https://count.getloli.com/ "profile count")
+[![Sparkline](https://stars.medv.io/Naereen/badges.svg)](https://stars.medv.io/Naereen/badges)
 
   </div>
       </details>
