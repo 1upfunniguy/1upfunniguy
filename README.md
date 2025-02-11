@@ -32,6 +32,7 @@
 [![pride](https://pride-badges.pony.workers.dev/static/v1?label=created+by+a+person+who+is+gender+fluid&labelColor=%23555&stripeWidth=6&stripeColors=%23ff76a3%2C%23ffffff%2C%23bf11d7%2C%23000000%2C%23303cbe)](https://pride-badges.pony.workers.dev "gender fluid pride")
 [![more pride](https://pride-badges.pony.workers.dev/static/v1?label=lgbtq%2B%20friendly&stripeWidth=6&stripeColors=E40303,FF8C00,FFED00,008026,24408E,732982
 )](https://pride-badges.pony.workers.dev "lgbtq+ friendly")
+[![trans rights](https://pride-badges.pony.workers.dev/static/v1?label=trans%20rights&stripeWidth=6&stripeColors=5BCEFA,F5A9B8,FFFFFF,F5A9B8,5BCEFA)](https://pride-badges.pony.workers.dev "trans rights")
 [![Status](https://api.statusbadges.me/badge/status/850970861305331712?style=flat)](https://api.statusbadges.me/presence/850970861305331712 "my status")
 [![Playing](https://api.statusbadges.me/badge/playing/850970861305331712?style=flat&fallback=not%20much)](https://discord.com/users/850970861305331712 "what i'm playing")
 [![VSCode](https://api.statusbadges.me/badge/vscode/850970861305331712&fallback=not%20much)](https://code.visualstudio.com "vscode")
@@ -166,6 +167,7 @@ width="99%" alt="Octo Ring logo" align="top"></a><br><a href="https://octo-ring.
 </picture>
 </div>
 
+[![woke mob](https://pride-badges.pony.workers.dev/static/v1?label=Sponsored+by+the+%22woke+mob%22&labelColor=%23555&stripeWidth=8&stripeColors=E40303%2CFF8C00%2CFFED00%2C008026%2C24408E%2C732982)](https://pride-badges.pony.workers.dev "woke mob")
 
 Made with <img style="height: 17px; vertical-align: bottom;" src="https://emoji.lgbt/assets/svg/fluid-sparkling-heart.svg"/> from 1up
 
