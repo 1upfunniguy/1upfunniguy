@@ -7,19 +7,11 @@
 <div align="center">
   
 [![welcome](https://images.cooltext.com/5720971.png)](https://github.com/1upfunniguy/ "welcome")
-
-</div>
-
-<div align="center">
   
 [![Typed Text](https://readme-typing-svg.demolab.com?width=435&lines=Wsp+I'm+1up;I+like+coding%2C+gaming%2C+making+videos%2C+streaming+and+other+stuff.&font=Helvetica-Bold&center=true&width=700&height=45&color=763FF7&vCenter=true&pause=1000&size=15)](https://readme-typing-svg.demolab.com "typing thingy")
 
-</div>
-
 <h3 align="center">wsp I'm <a href="https://github.com/1upfunniguy">1up</a></h3>
 <h5 align="center">Below are a few links you can visit and some badges to look at too</h5>
-
-<div align="center">
   
 [![Youtube](https://img.shields.io/badge/-Youtube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@1upfunniguy "youtube")
 [![Bluesky](https://img.shields.io/badge/-Bluesky-019CE0?style=flat&logo=bluesky&logoColor=white)](https://bsky.app/profile/1upfunniguy.bsky.social "bluesky")
@@ -42,14 +34,10 @@
 [![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=flat&logo=steam&logoColor=white)](https://steamcommunity.com/id/1upfunniguy "steam")
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black&style=flat)](https://buymeacoffee.com/linkthesupm "buy me a coffee")
 [![Github-sponsors](https://img.shields.io/badge/sponsor-30363D?style=flat&logo=GitHub-Sponsors&logoColor=#EA4AAA)](https://github.com/sponsors/1upfunniguy "sponser me")
-
- </div>
- 
- <div align="center">
     
 [![Discord arts](https://discord-arts.asure.dev/card/850970861305331712?customBackground=https%3A%2F%2Fimages.squarespace-cdn.com%2Fcontent%2Fv1%2F5f2ef218103c7a08855bdbf5%2F1683994669100-L552LVGYPWNHLQDS9KYN%2FGoogle_ChromeThemes_ThroughtheLilyPad_v01.jpg&presenceStatus=online&borderAllign=horizontal&usernameColor=%2362e8cc&tagColor=%235fbe9a&borderColor=%236fe3a2&localDateType=en-US&disableProfileTheme=true&customDate=Skibidi)](https://discord.com/users/850970861305331712 "discord")
 
-![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=radical&animation=grow_out_in&layout=default&quoteType=random)
+[![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=radical&animation=grow_out_in&layout=default&quoteType=random)](https://github.com/PiyushSuthar/github-readme-quotes "github readme quotes")
 
  </div>
  
@@ -130,11 +118,16 @@ And I love you like Github loves Ai
 [![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=1upfunniguy&hide_border=true&show_icons=true&count_private=true&theme=radical)](https://github-readme-stats.vercel.app/api/top-langs "github top lags")
 
 [![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=1upfunniguy&theme=radical&hide_border=true&mode=weekly)](https://git.io/streak-stats "streak stats")]
+
 [![1up's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=1upfunniguy)](https://github.com/ashutosh00710/github-readme-activity-graph "activity graph")
+
 [![trophy](https://github-trophies.vercel.app/?username=1upfunniguy&theme=radical)](https://github.com/ryo-ma/github-profile-trophy "github trophies")
+
 [![Discord Presence](https://lanyard.cnrad.dev/api/850970861305331712)](https://discord.com/users/850970861305331712 "discord presence")
-[![Visitor Count](https://count.getloli.com/@1upfunniguy?name=1upfunniguy&theme=booru-jaypee&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=0)]((https://count.getloli.com/ "profile count")
-[![Sparkline](https://stars.medv.io/Naereen/badges.svg)](https://stars.medv.io/Naereen/badges)
+
+[![Visitor Count](https://count.getloli.com/@1upfunniguy?name=1upfunniguy&theme=booru-jaypee&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=0)](https://count.getloli.com/ "profile count")
+
+[![Sparkline](https://stars.medv.io/Naereen/badges.svg)](https://stars.medv.io/Naereen/badges "sparkline")
 
   </div>
       </details>
@@ -144,35 +137,43 @@ And I love you like Github loves Ai
 
   # Discover others with the octo ring :trollface:
   </summary>
-<div align="center"><table><tbody><tr><td><a href="https://github.com/1upfunniguy/"><img height="100px" src="https://octo-ring.com/static/img/widget/top.png"
-width="99%" alt="Octo Ring logo" align="top"></a><br><a href="https://octo-ring.com/p/1upfunniguy/prev"><img src="https://octo-ring.com/static/img/widget/prev.png" width="33%" alt="previous" align="top" title="previous profile"></a><a href="https://octo-ring.com/p/1upfunniguy/random"><img src="https://octo-ring.com/static/img/widget/random.png" width="33%" alt="random" align="top" title="random profile"></a><a href="https://octo-ring.com/p/1upfunniguy/next"><img src="https://octo-ring.com/static/img/widget/next.png" width="33%" alt="next" align="top" title="next profile"></a><br><a href="https://octo-ring.com/"></a></td></tr></tbody></table></div>
+<div align="center"><table><tbody><tr><td><a href="https://github.com/1upfunniguy/" title="octo ring logo"><img height="100px" src="https://octo-ring.com/static/img/widget/top.png" width="99%" alt="Octo Ring logo" align="top"></a><br><a href="https://octo-ring.com/p/1upfunniguy/prev"><img src="https://octo-ring.com/static/img/widget/prev.png" width="33%" alt="previous" align="top" title="previous profile"></a><a href="https://octo-ring.com/p/1upfunniguy/random"><img src="https://octo-ring.com/static/img/widget/random.png" width="33%" alt="random" align="top" title="random profile"></a><a href="https://octo-ring.com/p/1upfunniguy/next"><img src="https://octo-ring.com/static/img/widget/next.png" width="33%" alt="next" align="top" title="next profile"></a><br><a href="https://octo-ring.com/"></a></td></tr></tbody></table></div>
 
 [![Octo Ring Logo](https://octo-ring.com/static/img/octo.png)](https://octo-ring.com "octo ring logo") <-- Thanks octo ring (click the octopus to go to their webpage)
     </details>
 
 <div align="center"> 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://github.com/1upfunniguy/1upfunniguy/blob/output/github-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://github.com/1upfunniguy/1upfunniguy/blob/output/github-snake.svg"
-  />
-  <img
-    alt="snake thingy"
-    src="https://github.com/1upfunniguy/1upfunniguy/blob/output/github-snake.svg"
-  />
-</picture>
+  
+<a href="https://github.com/Platane/snk" target="_blank" style="cursor: pointer;">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://github.com/1upfunniguy/1upfunniguy/blob/output/github-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://github.com/1upfunniguy/1upfunniguy/blob/output/github-snake.svg"
+    />
+    <img
+      alt="snake thingy"
+      title="snake thingy"
+      src="https://github.com/1upfunniguy/1upfunniguy/blob/output/github-snake.svg"
+    />
+  </picture>
+</a>
+
 </div>
+
+<div align="center">
 
 [![woke mob](https://pride-badges.pony.workers.dev/static/v1?label=Sponsored+by+the+%22woke+mob%22&labelColor=%23555&stripeWidth=8&stripeColors=E40303%2CFF8C00%2CFFED00%2C008026%2C24408E%2C732982)](https://pride-badges.pony.workers.dev "woke mob")
 
-Made with <img style="height: 17px; vertical-align: bottom;" src="https://emoji.lgbt/assets/svg/fluid-sparkling-heart.svg"/> from 1up
+Made with Made with <a href="https://emoji.lgbt" target="_blank">
+  <img src="https://emoji.lgbt/assets/svg/fluid-sparkling-heart.svg" alt="sparkling heart" width="17" height="17" style="vertical-align: bottom;" title="gender fluid heart"/></a> from 1up
 
+</div>
 
-```SILAS THE SKELETON!!!! 🐗🤯
+```SILAS THE SKELETON!!!! 🤯🤯🤯
 ▒▒▒░░░░░░░░░░▄▐░░░░
 ▒░░░░░░▄▄▄░░▄██▄░░░
 ░░░░░░▐▀█▀▌░░░░▀█▄░
