@@ -34,6 +34,7 @@
 [![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=flat&logo=steam&logoColor=white)](https://steamcommunity.com/id/1upfunniguy "steam")
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black&style=flat)](https://buymeacoffee.com/linkthesupm "buy me a coffee")
 [![Github-sponsors](https://img.shields.io/badge/sponsor-30363D?style=flat&logo=GitHub-Sponsors&logoColor=#EA4AAA)](https://github.com/sponsors/1upfunniguy "sponser me")
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
     
 [![Discord arts](https://discord-arts.asure.dev/card/850970861305331712?customBackground=https%3A%2F%2Fimages.squarespace-cdn.com%2Fcontent%2Fv1%2F5f2ef218103c7a08855bdbf5%2F1683994669100-L552LVGYPWNHLQDS9KYN%2FGoogle_ChromeThemes_ThroughtheLilyPad_v01.jpg&presenceStatus=online&borderAllign=horizontal&usernameColor=%2362e8cc&tagColor=%235fbe9a&borderColor=%236fe3a2&localDateType=en-US&disableProfileTheme=true&customDate=Skibidi)](https://discord.com/users/850970861305331712 "discord")
 
