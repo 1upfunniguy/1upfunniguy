@@ -130,8 +130,6 @@ And I love you like Github loves Ai
 
 [![Sparkline](https://stars.medv.io/Naereen/badges.svg)](https://stars.medv.io/Naereen/badges "sparkline")
 
-[![mlew]("https://github-readme-stats.vercel.app/api/pin/?username=1upfunniguy&repo=MLEW&theme=radical&show_icons=true")](https://github.com/1upfunniguy/mlew "my le epik website")
-
   </div>
       </details>
       
