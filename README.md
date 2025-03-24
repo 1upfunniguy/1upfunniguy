@@ -84,21 +84,21 @@
   <ul style="list-style: none;">
     <summary>
       
-  ## I love github by 1up (edited by teker) :trollface:
+  ## I love github by me :trollface:
   
-I miss the old GitHub, simple menu's GitHub
-Filled with the juice, GitHub, set on they goals, GitHub
+I miss the old GitHub, get to that gold github
+Filled with the juice, GitHub, set on their goals, GitHub
 I hate the new GitHub
 The bad UI GitHub, Copilot in the news GitHub
 I miss the small GitHub, code with Ruby GitHub
 I'd like to say, at the time, I'd like to meet GitHub
-See, I wish I invented GitHub, there was only one GitHub
-I used to love GitHub, I used to love GitHub
-I even had that shi on Rails, I thought I was GitHub
+See, I wish I invented GitHub, there wasnt any GitHub
+and now i look and look around and theirs so many githubs, I used to love GitHub I used to love github
+I even had that stuff on Rails, I thought I was GitHub
 What if GitHub made a blog post about GitHub
 Called "We miss the old GitHub," man that'd be so GitHub
-That's all I was GitHub, we still love GitHub
-And I love you like Github loves Ai
+That's all it was GitHub, we still love GitHub
+And I love you like Github loves copilot
    
    </summary>
   </ul>
