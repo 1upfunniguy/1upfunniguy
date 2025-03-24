@@ -107,7 +107,7 @@ And I love you like Github loves Ai
  <details>
   <summary>
     
-# My stats and discord :trollface:
+# My stats most famous repo and discord :trollface:
   </summary>
   
 <div align="center">
@@ -130,7 +130,7 @@ And I love you like Github loves Ai
 
 [![Sparkline](https://stars.medv.io/Naereen/badges.svg)](https://stars.medv.io/Naereen/badges "sparkline")
 
-[![mlew](https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=1upfunniguy&repo=mlew&theme=radical&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false")](https://github.com/1upfunniguy/mlew "my le epik website")
+[![mlew]("https://github-readme-stats.vercel.app/api/pin/?username=1upfunniguy&repo=MLEW&theme=radical&show_icons=true")](https://github.com/1upfunniguy/mlew "my le epik website")
 
   </div>
       </details>
