@@ -169,7 +169,7 @@ And I love you like Github loves copilot
 [![woke mob](https://pride-badges.pony.workers.dev/static/v1?label=Sponsored+by+the+%22woke+mob%22&labelColor=%23555&stripeWidth=8&stripeColors=E40303%2CFF8C00%2CFFED00%2C008026%2C24408E%2C732982)](https://pride-badges.pony.workers.dev "woke mob")
 
 Made with Made with <a href="https://emoji.lgbt" target="_blank">
-  <img src="https://emoji.lgbt/assets/svg/fluid-sparkling-heart.svg" alt="sparkling heart" width="17" height="17" style="vertical-align: bottom;" title="gender fluid heart"/></a> from 1up
+  <img src="https://emoji.lgbt/assets/svg/trans-sparkling-heart.svg" alt="sparkling heart" width="17" height="17" style="vertical-align: bottom;" title="gender fluid heart"/></a> from 1up
 
 </div>
 
