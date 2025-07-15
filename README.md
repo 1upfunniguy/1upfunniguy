@@ -21,7 +21,6 @@
 [![Sad Spongebob Badge](https://custom-icon-badges.demolab.com/badge/spongebob-yellow?style=flat&label=sad&logoColor=&logo=happyspongebob)](https://www.reddit.com/r/spongebob/comments/17qb955/why_is_spongebob_sad_wrong_answers_only/ "sad spongebob")
 [![Fwip](https://custom-icon-badges.demolab.com/badge/approved-white?style=flat&label=fwip&logoColor=&logo=fwipwithoutbg)](https://funny.com "fwip")
 [![Follow me on Github](https://img.shields.io/github/followers/1upfunniguy?color=236ad3&style=flat&logo=github&label=Follow)](https://github.com/1upfunniguy "followers")
-[![pride](https://pride-badges.pony.workers.dev/static/v1?label=created+by+a+person+who+is+gender+fluid&labelColor=%23555&stripeWidth=6&stripeColors=%23ff76a3%2C%23ffffff%2C%23bf11d7%2C%23000000%2C%23303cbe)](https://pride-badges.pony.workers.dev "gender fluid pride")
 [![more pride](https://pride-badges.pony.workers.dev/static/v1?label=lgbtq%2B%20friendly&stripeWidth=6&stripeColors=E40303,FF8C00,FFED00,008026,24408E,732982
 )](https://pride-badges.pony.workers.dev "lgbtq+ friendly")
 [![trans rights](https://pride-badges.pony.workers.dev/static/v1?label=trans%20rights&stripeWidth=6&stripeColors=5BCEFA,F5A9B8,FFFFFF,F5A9B8,5BCEFA)](https://pride-badges.pony.workers.dev "trans rights")
