@@ -52,11 +52,11 @@
   </ul>
 </div>
 
-**1. Noone :(**
+**1. No one :(**
 
-**2. Noone :(**
+**2. No one :(**
 
-**3. Noone :(**
+**3. No one :(**
 
 [![All Sponsors](https://img.shields.io/badge/-All%20Sponsors-FD9494?style=for-the-badge&logo=GitHub&logoColor=black)](https://github.com/sponsors/1upfunniguy "all sponsers")
 
